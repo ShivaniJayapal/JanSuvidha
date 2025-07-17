@@ -1,7 +1,5 @@
 # JanSuvidha Dashboard - Civic Data Visualizer
 
-![Project Banner](path/to/your/banner-image.png)
-
 
 ## Overview
 
@@ -62,4 +60,18 @@ To run the application in development mode:
 
 ```bash
 npm run dev
+
+
+
+### Home Page
+![Home Page of JanSuvidha Dashboard](https://github.com/user-attachments/assets/a66d8e77-9902-47ab-9400-40c9bb1f138b)
+
+### Data Visualization Page (e.g., Health Category)
+![Data Visualization Screenshot](path/to/your/datavis-screenshot.png) *(Update this with your own screenshot)*
+
+### RTI Submissions Page
+![RTI Page Screenshot](path/to/your/rti-screenshot.png) *(Update this with your own screenshot)*
+
+### Upload Data Page
+![Upload Page Screenshot](path/to/your/upload-screenshot.png) *(Update this with your own screenshot)*
 
