@@ -1,7 +1,7 @@
 # JanSuvidha Dashboard - Civic Data Visualizer
 
 ![Project Banner](path/to/your/banner-image.png)
-*(Optional: Add a project banner image here. Replace `path/to/your/banner-image.png`)*
+
 
 ## Overview
 
@@ -54,9 +54,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 2.  **Install project dependencies:**
     ```bash
     npm install
-    # or
-    yarn install
-    ```
+    
 
 ### Running the Development Server
 
@@ -64,5 +62,4 @@ To run the application in development mode:
 
 ```bash
 npm run dev
-# or
-yarn dev
+
