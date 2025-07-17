@@ -10,13 +10,6 @@ The "JanSuvidha Dashboard" is a powerful civic data visualization platform aimed
 
 Built as a modern web application, JanSuvidha provides interactive tools for exploring diverse datasets, submitting RTI requests, and comparing performance across different regions and time periods.
 
-... (rest of your README content)
-## Overview
-
-The "JanSuvidha Dashboard" is a powerful civic data visualization platform aimed at empowering citizens with accessible government data. It enables users to access, analyze, and understand public information to foster transparency, hold governments accountable, and drive positive change in their communities.
-
-Built as a modern web application, JanSuvidha provides interactive tools for exploring diverse datasets, submitting RTI requests, and comparing performance across different regions and time periods.
-
 ## Key Features
 
 * **Upload & Analyze:** Seamlessly upload government documents (PDFs, Excel files) for automated data extraction and instant insights.
