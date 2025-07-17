@@ -1,6 +1,18 @@
 # JanSuvidha Dashboard - Civic Data Visualizer
 
+# JanSuvidha Dashboard - Civic Data Visualizer
 
+## Demo
+**[🚀 View Demo](https://drive.google.com/file/d/1h-icy12EJakxB9cFfa_kLM7OVs5W_V2Z/view?usp=drive_link)**
+
+
+## Overview
+
+The "JanSuvidha Dashboard" is a powerful civic data visualization platform aimed at empowering citizens with accessible government data. It enables users to access, analyze, and understand public information to foster transparency, hold governments accountable, and drive positive change in their communities.
+
+Built as a modern web application, JanSuvidha provides interactive tools for exploring diverse datasets, submitting RTI requests, and comparing performance across different regions and time periods.
+
+... (rest of your README content)
 ## Overview
 
 The "JanSuvidha Dashboard" is a powerful civic data visualization platform aimed at empowering citizens with accessible government data. It enables users to access, analyze, and understand public information to foster transparency, hold governments accountable, and drive positive change in their communities.
